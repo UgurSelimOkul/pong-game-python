@@ -20,7 +20,7 @@ A fast-paced single-player arcade game developed with Python and Pygame. Unlike 
 
 ## 📸 Concept Art
 
-![Pong Game Concept Art](pong_gmae.jpeg)
+![Pong Game Concept Art](pong_game.jpeg)
 
 ## ⚙️ Installation & How to Run
 
